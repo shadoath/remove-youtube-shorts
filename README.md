@@ -1,4 +1,22 @@
-## Privacy Policy for "Remove YouTube Shorts" Chrome Extension
+# YouTube Shorts Remover
+
+A Chrome extension to remove the "Shorts" link from YouTube's sidebar, as well as not allowing navigation to any /shorts/ URLs.
+
+## Why?
+
+Because I don't want to see YouTube Shorts. I don't want to see them in my sidebar, I don't want to see them in my search results, and I don't want to see them in my recommended videos. I don't want to see them anywhere. I don't want to see them, Shadoath I Am.
+
+They waste my time and I don't find them entertaining. I don't want to see them. I don't want to see them, Shadoath I Am.
+
+## Installation
+
+Download extension from the [Chrome Web Store](LINK HERE).
+
+## Issues/Feature Requests
+
+Please add an issue on GitHub or make a pull request.
+
+# Privacy Policy for "Remove YouTube Shorts" Chrome Extension
 
 Effective Date: 2023-10-14
 
