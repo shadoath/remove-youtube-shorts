@@ -10,7 +10,7 @@ They waste my time and I don't find them entertaining. I don't want to see them.
 
 ## Installation
 
-Download extension from the [Chrome Web Store](LINK HERE).
+Download extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/remove-youtube-shorts/kgjgddnghejpaeoleemocohfjmjhpihk).
 
 ## Issues/Feature Requests
 
