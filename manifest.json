@@ -3,13 +3,16 @@
   "name": "Remove YouTube Shorts",
   "version": "1.0",
   "description": "This extension removes the Shorts link from YouTube sidebar.",
-  "permissions": ["activeTab"],
+  "permissions": ["activeTab", "webNavigation"],
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/*"],
       "js": ["content.js"]
     }
   ],
+  "background": {
+    "service_worker": "background.js"
+  },
   "icons": {
     "128": "icon-128.png",
     "256": "icon-256.png"
